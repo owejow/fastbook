@@ -28,4 +28,7 @@ scikit-learn = "^1.5.1"
 sentencepiece = "^0.2.0"
 matplotlib = "^3.9.1"
 jupyterlab-widgets = "^3.0.11"
-
+kaggle = "^1.6.17"
+dtreeviz = "^1.4.1"
+waterfallcharts  = "^3.8"
+treeinterpreter  = "^0.2.3"

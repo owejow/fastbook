@@ -38,9 +38,6 @@ If you see someone hosting a copy of these materials somewhere else, please let 
     poetry run jupyter-lab
 ```
 
-NOTE: If you are running the notebooks locally please comment out the
-"! [ -e /content ] && pip install -Uqq fastbook" at the top of the file.
-
 ## Contributions
 
 If you make any pull requests to this repo, then you are assigning copyright of that work to Jeremy Howard and Sylvain Gugger. (Additionally, if you are making small edits to spelling or text, please specify the name of the file and a very brief description of what you're fixing. It's difficult for reviewers to know which corrections have already been made. Thank you.)
