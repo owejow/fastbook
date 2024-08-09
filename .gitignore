@@ -8,3 +8,10 @@ __pycache__/
 .last_checked
 .gitconfig
 .ipynb_checkpoints/
+
+.env
+.venv
+.devenv
+.devenv.flake.nix
+poetry.lock
+devenv.lock
